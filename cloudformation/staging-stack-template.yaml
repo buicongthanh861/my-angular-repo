@@ -8,7 +8,7 @@ Parameters:
   WebServerRoleName:
     Type: String
     Description: The name of the IAM Role attached to the web server instance
-    Default: WebServiceRole 
+    Default: WebServiceRole
 
 Resources:
   WebServerInstance:
